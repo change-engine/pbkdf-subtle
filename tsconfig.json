@@ -1,0 +1,12 @@
+{
+  "include": ["src", "test"],
+  "compilerOptions": {
+    "outDir": "./lib",
+    "target": "es2021",
+    "declaration": true,
+    "lib": ["webworker", "es2021"],
+    "module": "es2022",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
