@@ -8,7 +8,7 @@ Hash/Verify PBKDF2. Uses only `crypto.subtle`.
 ./hash.mjs my_secret_password
 ```
 
-## To retrieve a Secret from Secrets Manager:
+## To check the Authorization header:
 
 ```typescript
 const TOKEN_HASH = 'djAxKFWLYXubAcE8y5FktPCwWQGGoKVaFpkJ2OUcLRnV56O68DFbWSODXoVkBZn19otVVSiP';
