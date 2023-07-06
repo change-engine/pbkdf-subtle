@@ -21,7 +21,7 @@
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
     "eslint": "^8.27.0",
-    "prettier": "^2.7.1",
+    "prettier": "^3.0.0",
     "typescript": "5.1.6"
   },
   "eslintConfig": {
