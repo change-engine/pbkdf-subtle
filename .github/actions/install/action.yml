@@ -5,5 +5,8 @@ runs:
       with:
         node-version: '18'
 
-    - run: yarn install --frozen-lockfile
+    - run: yarn config set nodeLinker pnp
+      shell: bash
+
+    - run: yarn install --no-immutable
       shell: bash
