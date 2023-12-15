@@ -5,6 +5,9 @@ runs:
       with:
         node-version: "18"
 
+    - run: corepack enable
+      shell: bash
+
     - run: yarn set version berry
       shell: bash
 
