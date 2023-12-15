@@ -1,11 +1,14 @@
 runs:
-  using: 'composite'
+  using: "composite"
   steps:
     - uses: actions/setup-node@v3
       with:
-        node-version: '18'
+        node-version: "18"
 
-    - run: yarn config set nodeLinker pnp
+    - run: yarn set version berry
+      shell: bash
+
+    - run: yarn config set nodeLinker node-modules
       shell: bash
 
     - run: yarn install --no-immutable
