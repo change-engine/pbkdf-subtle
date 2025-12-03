@@ -1,7 +1,7 @@
 {
   "include": ["src", "test"],
   "compilerOptions": {
-    "outDir": "./lib",
+    "outDir": "./dist",
     "target": "es2021",
     "declaration": true,
     "lib": ["webworker", "es2021"],

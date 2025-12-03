@@ -12,13 +12,13 @@
   "name": "pbkdf-subtle",
   "version": "1.1.0",
   "description": "Hash/Verify PBKDF2. Uses only `crypto.subtle`",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:change-engine/pbkdf-subtle.git",
   "author": "ChangeEngine <engineering@changeengine.com>",
   "license": "MIT",
   "files": [
-    "lib/**/*",
+    "dist/**/*",
     "hash.mjs"
   ],
   "devDependencies": {
