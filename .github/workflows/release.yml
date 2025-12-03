@@ -20,6 +20,6 @@ jobs:
 
       - uses: ./.github/actions/install
 
-      - run: yarn publish
+      - run: pnpm publish
         env:
           NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
