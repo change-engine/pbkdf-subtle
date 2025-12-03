@@ -10,7 +10,7 @@
   },
   "type": "module",
   "name": "pbkdf-subtle",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Hash/Verify PBKDF2. Uses only `crypto.subtle`",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
