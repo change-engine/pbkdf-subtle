@@ -22,15 +22,19 @@
     "hash.mjs"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.48.1",
-    "@typescript-eslint/parser": "^8.48.1",
-    "eslint": "^9.39.1",
-    "eslint-config-two-stroke": "^1.2.16",
-    "prettier": "^3.1.1",
-    "typescript": "^5.3.3"
+    "@typescript-eslint/eslint-plugin": "^8.55.0",
+    "@typescript-eslint/parser": "^8.55.0",
+    "eslint": "^9.39.2",
+    "eslint-config-two-stroke": "^1.4.4",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": "^24.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/change-engine/pbkdf-subtle"
   },
   "packageManager": "pnpm@10.18.2+sha1.48588a2735db5f19ffe699240b59891cfac5f316",
   "prettier": {
