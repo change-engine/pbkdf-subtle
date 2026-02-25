@@ -25,17 +25,17 @@
     "hash.mjs"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.55.0",
-    "@typescript-eslint/parser": "^8.55.0",
-    "eslint": "^9.39.2",
-    "eslint-config-two-stroke": "^1.4.4",
+    "@typescript-eslint/eslint-plugin": "^8.56.1",
+    "@typescript-eslint/parser": "^8.56.1",
+    "eslint": "^9.39.3",
+    "eslint-config-two-stroke": "^1.4.5",
     "prettier": "^3.8.1",
     "typescript": "^5.9.3"
   },
   "engines": {
     "node": "^24.9.0"
   },
-  "packageManager": "pnpm@10.18.2+sha1.48588a2735db5f19ffe699240b59891cfac5f316",
+  "packageManager": "pnpm@10.30.2+sha512.36cdc707e7b7940a988c9c1ecf88d084f8514b5c3f085f53a2e244c2921d3b2545bc20dd4ebe1fc245feec463bb298aecea7a63ed1f7680b877dc6379d8d0cb4",
   "prettier": {
     "printWidth": 100
   }
