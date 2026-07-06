@@ -25,11 +25,11 @@
     "hash.mjs"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.59.3",
-    "@typescript-eslint/parser": "^8.59.3",
-    "eslint": "^10.3.0",
-    "eslint-config-two-stroke": "^1.5.3",
-    "prettier": "^3.8.3",
+    "@typescript-eslint/eslint-plugin": "^8.62.1",
+    "@typescript-eslint/parser": "^8.62.1",
+    "eslint": "^10.6.0",
+    "eslint-config-two-stroke": "^1.5.7",
+    "prettier": "^3.9.4",
     "typescript": "^6.0.3"
   },
   "engines": {
